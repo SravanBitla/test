@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JensenProvisioningCore", "JensenProvisioningCore\JensenProvisioningCore.csproj", "{3E53D01E-D197-43A6-A490-ED51523CFAD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JensenProvisioningJob", "JensenProvisioningJob\JensenProvisioningJob.csproj", "{ED7C1DAF-A720-4C75-8BC2-08C3D9310592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JensenTestConsole", "JensenTestConsole\JensenTestConsole.csproj", "{77951640-6ECF-47D1-A79C-B322C01B2A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JensenProvisioningRemoteEventReceiver", "JensenProvisioningRemoteEventReceiver\JensenProvisioningRemoteEventReceiver.csproj", "{75F87A31-319A-4DAC-952D-0FAA9A5F4070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E53D01E-D197-43A6-A490-ED51523CFAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E53D01E-D197-43A6-A490-ED51523CFAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E53D01E-D197-43A6-A490-ED51523CFAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E53D01E-D197-43A6-A490-ED51523CFAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7C1DAF-A720-4C75-8BC2-08C3D9310592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7C1DAF-A720-4C75-8BC2-08C3D9310592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7C1DAF-A720-4C75-8BC2-08C3D9310592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7C1DAF-A720-4C75-8BC2-08C3D9310592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77951640-6ECF-47D1-A79C-B322C01B2A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77951640-6ECF-47D1-A79C-B322C01B2A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77951640-6ECF-47D1-A79C-B322C01B2A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77951640-6ECF-47D1-A79C-B322C01B2A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F87A31-319A-4DAC-952D-0FAA9A5F4070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F87A31-319A-4DAC-952D-0FAA9A5F4070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F87A31-319A-4DAC-952D-0FAA9A5F4070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F87A31-319A-4DAC-952D-0FAA9A5F4070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://spspassion.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = JensenProvisioningCore\\JensenProvisioningCore.csproj
+		SccProjectName1 = JensenProvisioningCore
+		SccLocalPath1 = JensenProvisioningCore
+		SccProjectUniqueName2 = JensenProvisioningJob\\JensenProvisioningJob.csproj
+		SccProjectName2 = JensenProvisioningJob
+		SccLocalPath2 = JensenProvisioningJob
+		SccProjectUniqueName3 = JensenTestConsole\\JensenTestConsole.csproj
+		SccProjectName3 = JensenTestConsole
+		SccLocalPath3 = JensenTestConsole
+		SccProjectUniqueName4 = JensenProvisioningRemoteEventReceiver\\JensenProvisioningRemoteEventReceiver.csproj
+		SccProjectName4 = JensenProvisioningRemoteEventReceiver
+		SccLocalPath4 = JensenProvisioningRemoteEventReceiver
+	EndGlobalSection
+EndGlobal
